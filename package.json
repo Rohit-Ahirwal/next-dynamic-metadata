@@ -1,6 +1,6 @@
 {
   "name": "next-dynamic-metadata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A powerful Next.js package that simplifies metadata management by allowing you to define all your SEO metadata in a single configuration file. Perfect for App Router applications.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
