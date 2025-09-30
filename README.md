@@ -1,6 +1,6 @@
 # Next Dynamic Metadata
 
-[![npm version](https://badge.fury.io/js/next-dynamic-metadata.svg)](https://www.npmjs.com/package/next-dynamic-metadata)
+[![npm version](https://img.shields.io/npm/v/next-dynamic-metadata)](https://www.npmjs.com/package/next-dynamic-metadata)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A powerful Next.js package that simplifies metadata management by allowing you to define all your SEO metadata in a single configuration file. Perfect for App Router applications that need dynamic, SEO-friendly metadata without the complexity of scattered `generateMetadata` functions.
