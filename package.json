@@ -1,0 +1,52 @@
+{
+  "name": "next-dynamic-metadata",
+  "version": "1.0.0",
+  "description": "A powerful Next.js package that simplifies metadata management by allowing you to define all your SEO metadata in a single configuration file. Perfect for App Router applications.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "keywords": [
+    "nextjs",
+    "metadata",
+    "seo",
+    "app-router",
+    "react",
+    "typescript",
+    "open-graph",
+    "twitter-cards",
+    "json-ld",
+    "dynamic-metadata"
+  ],
+  "author": "Rohit Ahirwal",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohit-Ahirwal/next-dynamic-metadata.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rohit-Ahirwal/next-dynamic-metadata/issues"
+  },
+  "homepage": "https://github.com/Rohit-Ahirwal/next-dynamic-metadata#readme",
+  "license": "MIT",
+  "packageManager": "pnpm@10.17.0",
+  "peerDependencies": {
+    "react": "^18 || ^19",
+    "react-dom": "^18 || ^19",
+    "next": "^14 || ^15"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^24.6.0",
+    "@types/react": "^19.1.16",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
