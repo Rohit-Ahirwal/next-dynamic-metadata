@@ -1,0 +1,6 @@
+# Don't publish source
+src
+tsconfig.json
+pnpm-lock.yaml
+.gitignore
+.npmignore

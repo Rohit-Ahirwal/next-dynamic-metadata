@@ -1,2 +1,13 @@
+# dependencies
 node_modules
+.pnpm-debug.log
+
+# build output
 dist
+
+# logs
+*.log
+
+# env
+.env
+.env.local
