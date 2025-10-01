@@ -143,7 +143,7 @@ export default function RootLayout({
 For single-page applications or client-side navigation, add the `MetadataHydrator`:
 
 An api route is required for the use of `MetadataHydrator`
-
+route `api/metadata/route.ts`
 ```typescript
 import { NextRequest, NextResponse } from "next/server";
 import { resolveMetadata } from "next-dynamic-metadata";
