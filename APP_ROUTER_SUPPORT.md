@@ -72,6 +72,6 @@ If you have questions about App Router migration or this package:
 
 ---
 
-**Last Updated**: January 2024  
+**Last Updated**: October 2025
 **Package Version**: 1.0.0  
 **Next.js Compatibility**: 13+ (App Router only)
